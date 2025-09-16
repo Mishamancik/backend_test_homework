@@ -1,0 +1,2 @@
+I write some lines of text here
+to see changes with git amend
